@@ -1,2 +1,2 @@
-result = 'Today is %s %02d' % ('February', 8)
+result = 'Today is %s %02d' % ('February', 24)
 print(result)
