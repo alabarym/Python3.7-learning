@@ -1,7 +1,7 @@
-def print_hello(n):
+def print_number(n):
     counter = 0
     while counter < n:
-        print('Hello ' + str(counter))
+        print(n - counter)
         counter = counter + 1
-
-print_hello(3)
+    print('finished!')
+print_number(5)
