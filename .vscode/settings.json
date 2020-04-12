@@ -9,6 +9,7 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true,
-    "git.autofetch": true
+    "python.testing.unittestEnabled": false,
+    "git.autofetch": true,
+    "python.testing.promptToConfigure": false
 }
