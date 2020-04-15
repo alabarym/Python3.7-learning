@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+101_decimal_2_binary.py
